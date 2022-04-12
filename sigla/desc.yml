@@ -1,7 +1,4 @@
 deployment_option:
-  docker-compose:
-    name: Docker
-    description: desc
   single_tier:
     deploy_url: https://developersitalia.it
     demo: https://developersitalia.it
