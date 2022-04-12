@@ -1,9 +1,11 @@
 deployment_option:
   single_tier:
+    solution_name: Google Cloud
     deploy_url: https://vvff.it
     demo: https://vvff.it
     op_level: 4
   multi_tier:
+    solution_name: Google Cloud
     deploy_url: https://vvff.it
     demo: https://vvff.it
     op_level: 4
